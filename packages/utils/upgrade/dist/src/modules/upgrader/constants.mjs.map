@@ -1,1 +1,0 @@
-{"version":3,"file":"constants.mjs","sources":["../../../../src/modules/upgrader/constants.ts"],"sourcesContent":["export const STRAPI_PACKAGE_NAME = '@strapi/strapi';\n"],"names":["STRAPI_PACKAGE_NAME"],"mappings":"AAAO,MAAMA,sBAAsB;;;;"}

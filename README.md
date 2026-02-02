@@ -1,1 +1,0 @@
-# PearlThought-devops

@@ -1,9 +1,0 @@
-{
-  "run": {
-    "command": "nx run-many --target=build:ts --nx-ignore-cycles",
-    "startTime": "2026-02-02T09:11:44.071Z",
-    "endTime": "2026-02-02T09:11:44.091Z",
-    "inner": false
-  },
-  "tasks": []
-}

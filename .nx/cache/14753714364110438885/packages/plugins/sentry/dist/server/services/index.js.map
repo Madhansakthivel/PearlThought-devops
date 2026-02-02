@@ -1,1 +1,0 @@
-{"version":3,"file":"index.js","sources":["../../../server/src/services/index.ts"],"sourcesContent":["import sentry from './sentry';\n\nexport default {\n  sentry,\n};\n"],"names":["sentry"],"mappings":";;;;AAEA,eAAe;AACbA,IAAAA;AACF,CAAE;;;;"}

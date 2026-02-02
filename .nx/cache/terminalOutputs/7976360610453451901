@@ -1,4 +1,0 @@
-src/cloud.ts(2,60): error TS7016: Could not find a declaration file for module '@strapi/cloud-cli'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/cli/cloud/dist/index.js' implicitly has an 'any' type.
-  Try `npm i --save-dev @types/strapi__cloud-cli` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/cloud-cli';`
-src/create-strapi.ts(7,38): error TS7016: Could not find a declaration file for module '@strapi/cloud-cli'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/cli/cloud/dist/index.js' implicitly has an 'any' type.
-  Try `npm i --save-dev @types/strapi__cloud-cli` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/cloud-cli';`
