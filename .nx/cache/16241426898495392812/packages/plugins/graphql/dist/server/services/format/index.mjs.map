@@ -1,0 +1,1 @@
+{"version":3,"file":"index.mjs","sources":["../../../../server/src/services/format/index.ts"],"sourcesContent":["import returnTypes from './return-types';\n\nexport default () => ({\n  returnTypes: returnTypes(),\n});\n"],"names":["returnTypes"],"mappings":";;AAEA,aAAe,CAAA,KAAO;QACpBA,WAAaA,EAAAA,WAAAA;AACf,KAAA,CAAC;;;;"}

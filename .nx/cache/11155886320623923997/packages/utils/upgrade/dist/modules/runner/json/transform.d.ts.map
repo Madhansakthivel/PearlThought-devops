@@ -1,0 +1,1 @@
+{"version":3,"file":"transform.d.ts","sourceRoot":"","sources":["../../../../src/modules/runner/json/transform.ts"],"names":[],"mappings":"AAQA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,cAAc,CAAC;AAE3C,OAAO,KAAK,EAAE,uBAAuB,EAAuC,MAAM,SAAS,CAAC;AAE5F,eAAO,MAAM,aAAa,gBACX,MAAM,SACZ,MAAM,EAAE,UACP,uBAAuB,KAC9B,QAAQ,aAAa,CAiFvB,CAAC"}

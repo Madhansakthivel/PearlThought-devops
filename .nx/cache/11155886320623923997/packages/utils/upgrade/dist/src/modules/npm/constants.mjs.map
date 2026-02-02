@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.mjs","sources":["../../../../src/modules/npm/constants.ts"],"sourcesContent":["export const NPM_REGISTRY_URL = 'https://registry.npmjs.org';\n"],"names":["NPM_REGISTRY_URL"],"mappings":"AAAO,MAAMA,mBAAmB;;;;"}

@@ -1,0 +1,8 @@
+src/ee/index.ts(2,29): error TS7016: Could not find a declaration file for module '@strapi/logger'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/utils/logger/dist/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/strapi__logger` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/logger';`
+src/services/webhook-runner.ts(7,29): error TS7016: Could not find a declaration file for module '@strapi/logger'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/utils/logger/dist/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/strapi__logger` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/logger';`
+src/services/worker-queue.ts(5,29): error TS7016: Could not find a declaration file for module '@strapi/logger'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/utils/logger/dist/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/strapi__logger` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/logger';`
+src/Strapi.ts(5,38): error TS7016: Could not find a declaration file for module '@strapi/logger'. 'C:/Users/DELL/Desktop/vscode/pearlThought/strapi/packages/utils/logger/dist/index.js' implicitly has an 'any' type.
+  Try `npm i --save-dev @types/strapi__logger` if it exists or add a new declaration (.d.ts) file containing `declare module '@strapi/logger';`

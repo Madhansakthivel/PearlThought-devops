@@ -1,0 +1,1 @@
+{"version":3,"file":"constants.js","sources":["../../../../src/modules/timer/constants.ts"],"sourcesContent":["export const ONE_SECOND_MS = 1000;\n"],"names":["ONE_SECOND_MS"],"mappings":";;AAAO,MAAMA,gBAAgB;;;;"}
